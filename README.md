@@ -1,4 +1,4 @@
-# DMBMS Mini Project - Sem V - IPL database
+# DBMS Mini Project - Sem V - IPL database
 
 **To run backend, open nodejs-backend directory in new terminal window and enter the following command:**
 
